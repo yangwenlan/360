@@ -555,7 +555,7 @@ body{
 .foot-box .foot-top .yuan{
     border-right: 1px solid #d6d6d6;
     color: #666;
-    width: 33.333333%;
+    width: 33%;
     font-size: 11px;
 }
 .foot-box .foot-top .yuan:nth-child(3){
@@ -657,3 +657,4 @@ body{
     width: 34px;
     z-index: 9999;
 }
+
